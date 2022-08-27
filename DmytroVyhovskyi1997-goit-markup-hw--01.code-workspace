@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"path": "."
+	},
+	{
+		"path": "../image"
+	}
+],
+  "settings": {
+    "liveServer.settings.multiRootWorkspaceName": "DmytroVyhovskyi1997-goit-markup-hw--01"
+  }
+}
